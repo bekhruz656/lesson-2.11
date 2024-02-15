@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.divheader {
+    height: 800px;
+    background: rgb(255, 255, 255);
+}
+
+.logoheader {
+    margin-top: 55px;
+    margin-left: 167px;
+    width: 120.04px;
+    height: 32.67px;
+}
+
+ul {
+    margin-top: -33px;
+    margin-left: 343px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: rgb(158, 154, 168);
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0px;
+}
+
+ul li:hover {
+    color: rgb(43, 208, 208);
+    cursor: pointer;
+}
+
+.login {
+    margin-top: -23px;
+    margin-left: 1091px;
+    color: rgb(158, 154, 168);
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0px;
+    cursor: pointer;
+}
+
+.login:hover {
+    color: rgb(43, 208, 208);
+}
+
+.sign {
+    margin-left: 1194px;
+    margin-top: 48px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 1px solid rgb(43, 208, 208);
+    width: 105px;
+    height: 40px;
+    border-radius: 28px;
+    background: rgb(43, 208, 208);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-align: center;
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 208, 208);
+    border-color: rgb(43, 208, 208);
+    cursor: pointer;
+}
+
+.just {
+    margin-left: 165px;
+    margin-top: 227px;
+    position: absolute;
+    left: 0%;
+    right: -0.53%;
+    top: 0;
+    bottom: 171px;
+    color: rgb(52, 49, 61);
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+
+.shorter {
+    margin-left: 165px;
+    margin-top: 317px;
+    position: absolute;
+    left: 0%;
+    right: -0.53%;
+    top: 0;
+    bottom: 171px;
+    color: rgb(52, 49, 61);
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+
+.build {
+    margin-left: 165px;
+    margin-top: 412px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    bottom: 0px;
+    color: rgb(158, 154, 168);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.15px;
+    text-align: left;
+}
+
+.links {
+    margin-left: 165px;
+    margin-top: 452px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    bottom: 0px;
+    color: rgb(158, 154, 168);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.15px;
+    text-align: left;
+}
+
+.hero {
+    position: absolute;
+    width: 733px;
+    height: 482px;
+    left: 830px;
+    right: -123px;
+    top: 166px;
+    bottom: 573px;
+}
+
+.get {
+    margin-left: 165px;
+    margin-top: 520px;
+    position: absolute;
+    width: 197px;
+    height: 56px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 28px;
+    background: rgb(43, 208, 208);
+    position: absolute;
+    top: 14px;
+    bottom: 12px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgb(43, 208, 208);
+}
+
+.divbody {
+    height: 270px;
+    background: rgb(80, 45, 31);
+}
+
+.inputimg {
+    background-image: url(./Path\ 2.svg);
+    position: absolute;
+    width: 1110px;
+    height: 168px;
+    left: 165px;
+    right: -165px;
+    top: 709px;
+    bottom: -709px;
+}
+
+.h1boot {
+    margin-top: 75px;
+    margin-left: 450px;
+    position: absolute;
+    width: 540px;
+    height: 48px; 
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+
+.start {
+    margin-top: 970px;
+    margin-left: 621px;
+    position: absolute;
+    width: 197px;
+    height: 60.48px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 28px;
+    background: rgb(43, 208, 208);
+    border: 2px solid rgb(43, 208, 208);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.divfooter {
+    height: 150.2px;
+    background: rgb(35, 33, 39);
+}
+
+.logofoot {
+    position: absolute;
+    width: 120.04px;
+    height: 29px;
+    left: 165px;
+    right: 819.96px;
+    top: 1139px;
+    bottom: -1139px;
+}
+
+.ulfoot {
+    gap: 50px;
+    margin-top: 70px;
+    color: white;
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.25px;
+}
+
+.logos {
+    margin-left: 1100px;
+    margin-top: 70px;
+}
+
+.inpbody {
+    margin-top: 35px;
+    position: absolute;
+    width: 769px;
+    height: 64px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 4.16%;
+    right: 69.7%;
+    top: 14px;
+    bottom: 14px;
+    color: rgb(52, 49, 61);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.15px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.butbody {
+    margin-top: 30px;
+    margin-left: 600px;
+    position: absolute;
+    width: 188px;
+    height: 64px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 10px;
+    background: rgb(43, 208, 208);
+    border: 2px solid rgb(43, 208, 208);
+    position: absolute;
+    left: 21.81%;
+    right: 21.28%;
+    top: 18px;
+    bottom: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+}
